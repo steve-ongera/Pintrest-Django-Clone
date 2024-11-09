@@ -18,9 +18,12 @@ This project is a Pinterest clone that allows users to create boards and save pi
 
 ## Technologies Used
 
-- Python 3
-- Django
+- Python 3.10.7
+- Django  5.1.2
 - Bootstrap
+- CSS 
+- Javascript
+- APIs
 - SQLite3 database
 - Vanilla JavaScript
 
@@ -57,6 +60,6 @@ This Pinterest clone is released under the [MIT License](LICENSE). Feel free to 
 
 Feel free to explore, contribute, and customize this Pinterest clone according to your needs!
 
-## contribution 
+## Contant / Buy me Coffee 
 - gadafisteve001@gmail.com
-- +254 1122 84093
+- +254 1122 84093 ( Mpesa )
